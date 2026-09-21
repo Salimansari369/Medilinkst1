@@ -12,6 +12,16 @@ This repository holds the **Milestone 1 / Task 1** deliverables and architecture
 
 ---
 
+## 📸 Healthcare Portal Preview
+
+<p align="center">
+  <img src="assets/medilink_preview.jpg" width="100%" alt="MediLinks Milestone 1 Interface" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
+</p>
+
+*Responsive digital healthcare portal showing doctor directory, appointment scheduling UI, and patient feedback.*
+
+---
+
 ## 🌟 Core Features (Milestone 1)
 
 * **Doctor & Clinic Discovery:** Find nearby healthcare professionals across primary care, cardiology, pediatrics, and emergency services.
